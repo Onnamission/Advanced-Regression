@@ -1,7 +1,25 @@
 
 # Advanced Regression
 
+![Github Repo Release](https://img.shields.io/github/release-date/Onnamission/Advanced-Regression)
+![Github Repo Build](https://img.shields.io/github/workflow/status/Onnamission/Advanced-Regression/advanceregression)
+![Github Repo Checks](https://badgen.net/github/checks/Onnamission/Advanced-Regression/main)
+![Github Repo Size](https://img.shields.io/github/repo-size/Onnamission/Advanced-Regression)
+![Github Repo License](https://img.shields.io/github/license/Onnamission/Advanced-Regression)
+![Github Repo Download](https://img.shields.io/github/downloads/Onnamission/Advanced-Regression/total)
+![Github Repo Star Req](https://img.shields.io/badge/%F0%9F%8C%9F-If%20Useful-BC4E99)
+
 Regression of sales data using KNN, SVM, and DTREE.
+
+## Tech Stack
+
+![Made With R](https://img.shields.io/badge/Made%20with-R-red?style=for-the-badge&logo=R)
+
+## Download
+
+```bash
+  git clone https://github.com/Onnamission/Advanced-Regression.git
+```
 
 ## About
 
