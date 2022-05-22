@@ -91,3 +91,15 @@ First, the optimal value of K was identified for which the score was highest. K 
 Then, the graph was plot using parameters - pdays and duration as it they are top 2 most important parameters.
 
 ![pdays_dur_knn](Results/pdays_dur_knn.png)
+
+## Support
+
+For support, find me 😂.
+
+## Authors
+
+- [@Onnamission](https://www.github.com/Onnamission)
+
+## Acknowledgements
+
+ - [Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
