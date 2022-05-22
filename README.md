@@ -66,11 +66,11 @@ Decision tree builds regression or classification models in the form of a tree s
 
 Firsty the parameter used were compared on the basis of importance.
 
-![important parameter](para_imp.png)
+![important parameter](Results/para_imp.png)
 
 Then, the regression was applied. The CP value was dynamically selcted for which it has least error value.
 
-![Decision Tree](dtree.png)
+![Decision Tree](Results/dtree.png)
 
 ## Support Vector Machine (SVM)
 
@@ -78,7 +78,7 @@ SVM works by mapping data to a high-dimensional feature space so that data point
 
 For the below graph, pdays and duration parameter were selected as they are top 2 most important parameters.
 
-![svm](pdays_dur_svm.png)
+![svm](Results/pdays_dur_svm.png)
 
 ## K-Nearest Neighbour (KNN)
 
@@ -86,8 +86,8 @@ The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametri
 
 First, the optimal value of K was identified for which the score was highest. K = 13 came out to be best.
 
-![knn](optm_kvalue.png)
+![knn](Results/optm_kvalue.png)
 
 Then, the graph was plot using parameters - pdays and duration as it they are top 2 most important parameters.
 
-![pdays_dur_knn](pdays_dur_knn.png)
+![pdays_dur_knn](Results/pdays_dur_knn.png)
