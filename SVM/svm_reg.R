@@ -10,7 +10,7 @@ print(getwd())
 setwd("D:/Projects/Advanced-Regression")
 print(getwd())
 
-df = read.csv("dataset/bank-full.csv", sep=";")
+df = read.csv("Dataset/bank-full.csv", sep=";")
 
 View(df)
 
