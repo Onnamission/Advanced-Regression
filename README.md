@@ -7,7 +7,7 @@ Regression of sales data using KNN, SVM, and DTREE.
 
 As we know that linear regression cannot be used in categorical values of a class. So, we think to use logisitc regression.
 But sometime it is not an optimal choice. So, we need to use more advance machine leanring algorithm. Now, here comes the role of algorithms like - KNN, SVM and DTEE.
-It is not mandatory to get best results all the time, but is useful is many cases. This time more parameters were considered for regression.
+It is not mandatory to get best results all the time, but is useful is many cases. This time more parameters were considered for regression. Same dataset was used as in this [repository](https://github.com/Onnamission/Sales-Regression-Analysis.git).
 
 ## Difference between Regression and Classification
 
