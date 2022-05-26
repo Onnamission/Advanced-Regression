@@ -13,7 +13,7 @@ Regression of sales data using KNN, SVM, and DTREE.
 
 ## Tech Stack
 
-![Made With R](https://img.shields.io/badge/Made%20with-R-red?style=for-the-badge&logo=R)
+![Made With R](https://img.shields.io/badge/-r-165CAA?style=for-the-badge&labelColor=grey&logo=r&logoColor=white)
 
 ## Download
 
@@ -104,15 +104,13 @@ The k-nearest neighbors algorithm, also known as KNN or k-NN, is a non-parametri
 
 First, the optimal value of K was identified for which the score was highest. K = 13 came out to be best.
 
+Ya Ya, I took till the range of 15 for this but it should be till the value of square root of number of rows. I did this because of less computation.
+
 ![knn](Results/optm_kvalue.png)
 
 Then, the graph was plot using parameters - pdays and duration as it they are top 2 most important parameters.
 
 ![pdays_dur_knn](Results/pdays_dur_knn.png)
-
-## Support
-
-For support, find me 😂.
 
 ## Authors
 
